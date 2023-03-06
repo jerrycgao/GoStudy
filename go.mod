@@ -1,2 +1,1 @@
 module GoStudy
-module GO
